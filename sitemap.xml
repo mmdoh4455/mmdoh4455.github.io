@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-       <loc>https://maplus.store/</loc>
-       <lastmod>2025-09-27T02:48:18+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
+    <loc>https://maplus.store/</loc>
+    <lastmod>2025-09-27T02:48:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0000</priority>
   </url>
   <url>
-       <loc>https://maplus.store/latest-products</loc>
-       <lastmod>2025-09-27T02:48:18+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+    <loc>https://maplus.store/latest-products</loc>
+    <lastmod>2025-09-27T02:48:18+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8000</priority>
   </url>
 </urlset>
